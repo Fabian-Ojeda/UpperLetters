@@ -1,0 +1,25 @@
+{
+  "name": "letters",
+  "version": "1.0.0",
+  "description": "varias herramientas para cadenas string en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabian-Ojeda/UpperLetters.git"
+  },
+  "author": "Fabián Ojeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabian-Ojeda/UpperLetters/issues"
+  },
+  "homepage": "https://github.com/Fabian-Ojeda/UpperLetters#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "jest":{
+    "testEnviroment":"node"
+  }
+}
